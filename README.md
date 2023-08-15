@@ -1,4 +1,4 @@
-# Visualizing-3D-terrain-with-cloud-data
+# GIScience: Visualizing 3D Terrain with Cloud Data
 
 ![Example Image](Cover.jpg)
 
